@@ -1,0 +1,1 @@
+The data taken from https://www.kaggle.com/competitions/brist1d/data into a data folder and was unable to upload due to its huge size.
