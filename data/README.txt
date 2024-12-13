@@ -1,1 +1,1 @@
-The data taken from https://www.kaggle.com/competitions/brist1d/data into a data folder and was unable to upload due to its huge size.
+The data is taken from https://www.kaggle.com/competitions/brist1d/data into this folder and was unable to upload due to its size being larger than 100MB. Hence we have uploaded the data in gdrive: https://drive.google.com/drive/folders/1aUsSpFZr7bYA2hZPME3sFhn57Wh7sQ95?usp=drive_link
